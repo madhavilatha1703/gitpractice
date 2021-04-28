@@ -1,2 +1,2 @@
 # gitpractice
-second user added feature
+second user: added feature
